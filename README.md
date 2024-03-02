@@ -8,7 +8,7 @@
 
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Equipe:
 - Sara Vieira Silva 
-- [Maria Clara Ribeiro](https://github.com/)
+- [Maria Clara Ribeiro](https://github.com/ClaraRibeiro09)
 - [Ana Paula Sena](https://github.com/AnaPaulaSena8)
 - [João Pedro de Andrade Holanda](https://github.com/joaopedrohub)
 
